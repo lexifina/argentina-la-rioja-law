@@ -1,0 +1,11 @@
+{
+  "path": "ar-f",
+  "code": "AR-F",
+  "name": "La Rioja",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-la-rioja-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://legislaturalarioja.gob.ar/consulta-de-leyes/",
+  "language": "es",
+  "sources": 1
+}

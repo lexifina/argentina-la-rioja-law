@@ -1,0 +1,19 @@
+{
+ "country": "AR-F",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia de La Rioja (reforma 2024)",
+   "url": "https://legislaturalarioja.gob.ar/consulta-de-leyes/wp-content/uploads/2026/06/constitucion-de-la-rioja.pdf",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 224,
+     "source_url": "https://legislaturalarioja.gob.ar/consulta-de-leyes/wp-content/uploads/2026/06/constitucion-de-la-rioja.pdf",
+     "sha256": "e022627120d87951735029bed1cf9a5a145af8c2dc788180a7e0130e9bc7ae96"
+    }
+   ]
+  }
+ ]
+}
